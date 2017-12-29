@@ -45,7 +45,7 @@
             "maxJump": 100
         },
         "fixedDiff": {
-            "enabled": true,
+            "enabled": false,
             "addressSeparator": "."
         },
         "shareTrust": {
